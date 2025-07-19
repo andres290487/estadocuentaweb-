@@ -1,0 +1,7 @@
+`txt
+streamlit
+pdfplumber
+pandas
+matplotlib
+pylatex
+`
